@@ -10,12 +10,12 @@ O aprendizado foi planejado com 3 pilares para que cada aluno possa aproveitar m
   Cada semana do mês teve um desafio diferente, passados aos participantes por meio de cards do [Trello](https://trello.com). Também foi disponibilizada uma comunidade no discord para que os alunos interagissem com dúvidas e dicas entre si.
 
 ### Investigar: 
-  Cada desafio teve um plano de estudos produzido para que cada desenvolvedor pudesse concluir o projeto. Os planos de estudo foram disponibiliados pela plataforma [Alura](https://www.alura.com.br/) e incluiam cursos, textos e podcasts.
+  Cada desafio teve um plano de estudos produzido para que cada desenvolvedor pudesse concluir o projeto. Os planos de estudo foram disponibilizados pela plataforma [Alura](https://www.alura.com.br/) e incluiam cursos, textos e podcasts.
   
 ### Agir:
   Ao concluir o curso, foi encorajado para que todos compartilhassem seus projetos entre si e também no Linkedin e GitHub. 
 
-## Temas Por Semana
+## Deafios Por Semana
 
 * [Semana 1](https://bit.ly/Semana1_Alura): Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.
 
