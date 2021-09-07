@@ -17,11 +17,11 @@ O aprendizado foi planejado com 3 pilares para que cada aluno possa aproveitar m
 
 ## Temas Por Semana
 
-..*Semana 1: Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.
+*Semana 1: Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.
 
-..*Semana 2: Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
+*Semana 2: Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
 
-..*Semana3: Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
+*Semana3: Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
 
 
 
