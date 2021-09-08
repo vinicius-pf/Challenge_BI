@@ -13,7 +13,7 @@ O aprendizado foi planejado com 3 pilares para que cada aluno possa aproveitar m
   Cada desafio teve um plano de estudos produzido para que cada desenvolvedor pudesse concluir o projeto. Os planos de estudo foram disponibilizados pela plataforma [Alura](https://www.alura.com.br/) e incluiam cursos, textos e podcasts.
   
 ### Agir:
-  Ao concluir o curso, foi encorajado para que todos compartilhassem seus projetos entre si e também no Linkedin e GitHub. 
+  A cada desafio concluído, os projetos são compartilhados via LinkedIn, GitHub e na comunidade do Discord. 
 
 ## Deafios Por Semana
 
