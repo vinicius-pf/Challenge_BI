@@ -10,3 +10,6 @@ A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as
 ## Fontes:
 
 Ícones: [IconFinder](https://www.iconfinder.com/iconsets/social-media-rounded-corners) produzido por [IconsAlfredo .com](https://www.iconfinder.com/AlfredoCreates)
+
+        [IconFinder](https://www.iconfinder.com/iconsets/business-collection-2027) produzido por [phoenix icon](https://www.iconfinder.com/phoenixicon)
+        
