@@ -13,3 +13,4 @@ A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as
 
   [IconFinder](https://www.iconfinder.com/iconsets/business-collection-2027) produzido por [phoenix icon](https://www.iconfinder.com/phoenixicon)
         
+  [IconFinder](https://www.iconfinder.com/iconsets/essentials-9) produzido por [Alice Rizzo](https://www.iconfinder.com/AliceR)      
