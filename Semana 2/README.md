@@ -1,4 +1,4 @@
-# [Semana 1](https://bit.ly/Semana1_Alura) - Alura Challenge BI
+# [Semana 2](https://bit.ly/Semana2_Alura) - Alura Challenge BI
 
 ## Dashboard Operacional
 
@@ -6,21 +6,14 @@ A Alura Log, uma empresa de logística, está enfrentando alguns problemas por c
 
 ## Base de Dados
 
-A empresa disponibilizou 4 tabelas no formato CSV:
+A empresa disponibilizou 2 tabelas no formato JSON:
   
   1. Tabela pedidos, que contém o registro de todos os pedidos feitos pelos clientes.
   2. Tabela produtos, que contém os produtos cadastrados e seus valores.
-  3. Tabela veículos, que contém veículos registrados que fazem o transporte dos produtos
-  4. Tabela estoque, que contém o registro de estoque dos produtos por mês
 
 ### Relacionamentos
 
-Há 3 relacionamentos entre as tabelas:
-  
-1. A 'Tabela pedidos' se relaciona com a 'Tabela produtos' pela coluna 'ID Produtos', com uma cardinalidade de muitos para 1 (n:1)
-2. A 'Tabela estoque' se relaciona com a 'Tabela produtos' pela coluna 'ID Produtos', com uma cardinalidade de muitos para 1 (n:1)
-3. A 'Tabela pedidos' se relaciona com a 'Tabela veículos' pela coluna 'ID Veículo', com uma cardinalidade de muitos para 1 (n:1)
-
+Não há relacionamento entre as tabelas. Apesar disso, ambas possuem as mesmas informações quanto a gastos e vendas, tendo apenas algumas informações distintas entre si.
 
 ## Métricas
 
@@ -38,6 +31,16 @@ Além destas, também foram desenvolvidas algumas métricas extras:
 
   
 ## Ferramentas utilizadas
-  Para a criação do dashboard foi utilizado o software Power BI. As imagens de fundo das páginas foram criadas no Microsoft Power Point.
+  Para a criação do dashboard foi utilizado o Microsoft Power BI. Para o plano de fundo foi utilizado o Microsoft Power Point. 
+  
+  ### Fontes dos ícones:
+  
+  Os ícones foram baixados do site Icon Finder
+  
+  [IconFinder](https://www.iconfinder.com/iconsets/social-media-rounded-corners) produzido por [IconsAlfredo .com](https://www.iconfinder.com/AlfredoCreates)
+
+  [IconFinder](https://www.iconfinder.com/iconsets/business-collection-2027) produzido por [phoenix icon](https://www.iconfinder.com/phoenixicon)
+
+  [IconFinder](https://www.iconfinder.com/iconsets/essentials-9) produzido por [Alice Rizzo](https://www.iconfinder.com/AliceR)
 
 
