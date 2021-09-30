@@ -1,33 +1,41 @@
 # [Semana 2](https://bit.ly/Semana2_Alura) - Alura Challenge BI
 
-## Dashboard Operacional
+## Dashboard de Marketing
 
-A Alura Log, uma empresa de logística, está enfrentando alguns problemas por conta do aumento de demanda durante a pandemia da COVID-19. Para manter a qualidade do serviço, percebeu que precisava acompanhar algumas métricas para conseguir efetuar algumas decisões operacionais. O dashboard aqui produzido trás as métricas pedidas, assim como algumas extras, desenvolvidas com o intuito de melhorar a qualidade do serviço da empresa. 
+No mês de julho de 2021, a Alura Shop investiu em publicidade digital para se destacar no mercado. Após esse período, a gerência da empresa requisitou a criação de um dashboard que trouxesse informações quanto ao resultado da campanha e também que trouxesse *insights* para tomadas de decisões futuras.
 
 ## Base de Dados
 
 A empresa disponibilizou 2 tabelas no formato JSON:
   
-  1. Tabela pedidos, que contém o registro de todos os pedidos feitos pelos clientes.
-  2. Tabela produtos, que contém os produtos cadastrados e seus valores.
+  1. Tabela dispositivos - contém informações de acessos por dispositivo.
+  2. Tabela idade e genero - contém informações de pessoas que acessaram a página e realizaram ou não compras.
+
+Ambas as tabelas trazem as mesmas informações quanto a quantidade de vendas e valor arrecadado.
 
 ### Relacionamentos
 
-Não há relacionamento entre as tabelas. Apesar disso, ambas possuem as mesmas informações quanto a gastos e vendas, tendo apenas algumas informações distintas entre si.
+Não há relacionamento entre as tabelas.
 
 ## Métricas
 
 A empresa requisitou que as seguintes métricas estivessem no relatório:
   
-  - S2D(Ship to door): Tempo, em dias, que a entrega demorou a ser efetuada
-  - Número de entregas por estado
-  - Número de veículos disponíveis
-  - Nível de estoque por ano
-  - Número de entregas atrasadas e no prazo
+  - Taxa de conversão: porcentagem do total de visitantes que efetuaram uma compra
+  - Valor convertido em compras por dia: quanto foi vendido por dia
+  - Jornada de compra: quantidade de acessos em cada etapa até a finalização da compra
+  - Total de compras
+  - Custo por Clique (CPC): é a o resultado da divisão do valor investido pelo total de cliques gerado
+  - Ticket médio por dispositivo: valor médio de cada compra, mostrado de acordo com o dispositivo de acesso (Mobile: Web, Mobile: App, Desktop)
+  - Retorno de investimento em publicidade (ROAS) por idade e gênero: O ROAS é o resultado da divisão do valor total arrecadado pelo total investido, exibido de acordo com a faixa etária e o gênero do comprador.
+  - Valor total investido
+
+A Alura Shop também requisitou que o dashboard fosse atualizado automaticamente, de segunda à sexta, às 9 horas da manhã.
 
 Além destas, também foram desenvolvidas algumas métricas extras:
-  - Faturamento total, por ano e por estado
-  - S2D médio por estado
+  - Impressões, alcance e quantidade de cliques total e por dispositivo.
+  - Total de vendas por gênero
+  - Foram também incluidos filtros que descrevem a quantidade de vendas e o faturamento total de acordo com o dia da semana e a faixa etária.
 
   
 ## Ferramentas utilizadas
