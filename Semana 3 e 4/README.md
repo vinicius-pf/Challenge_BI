@@ -41,11 +41,11 @@ Para a primeira página do relatório, foram desenvolvidas as seguintes métrica
 
 Na segunda página do relatório estão as análises de cenário, onde se pode visualizar o que acontece com cada métrica desenvolvida com uma alteração percentual nas mesmas.
 
-Além do pedido, também foi criada uma tercira página, que mostra ranking de produtos e vendedores, de acordo com o valor total vendido e também com a quantidade total vendida. São mostrados nessa página os 5 maiores para cada caso.
+Além do pedido, também foi criada uma tercira página, que mostra ranking de produtos e vendedores, de acordo com o valor total vendido e também com a quantidade total vendida. São mostrados nessa página os 5 maiores resultados para cada caso.
 
   
 ## Ferramentas utilizadas
-  Para a criação do dashboard foi utilizado o Microsoft Power BI. Para a criação do palete de cores foi utilizado o [Coolors](https://coolors.co)
+  Para a criação do dashboard foi utilizado o Microsoft Power BI. Para a criação da paleta de cores foi utilizado o [Coolors](https://coolors.co)
   
   ### Fontes dos ícones:
   
