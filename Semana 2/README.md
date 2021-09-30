@@ -43,12 +43,10 @@ Além destas, também foram desenvolvidas algumas métricas extras:
   
   ### Fontes dos ícones:
   
-  Os ícones foram baixados do site Icon Finder
-  
-  [IconFinder](https://www.iconfinder.com/iconsets/social-media-rounded-corners) produzido por [IconsAlfredo .com](https://www.iconfinder.com/AlfredoCreates)
+  Os ícones foram baixados do site [Icon Finder](https://www.iconfinder.com):
 
-  [IconFinder](https://www.iconfinder.com/iconsets/business-collection-2027) produzido por [phoenix icon](https://www.iconfinder.com/phoenixicon)
+  [Business Collection icon set](https://www.iconfinder.com/iconsets/business-collection-2027) produzido por [phoenix icon](https://www.iconfinder.com/phoenixicon)
 
-  [IconFinder](https://www.iconfinder.com/iconsets/essentials-9) produzido por [Alice Rizzo](https://www.iconfinder.com/AliceR)
+  [Essentials icon set](https://www.iconfinder.com/iconsets/essentials-9) produzido por [Alice Rizzo](https://www.iconfinder.com/AliceR) - Sob licensa Creative Commons (Attribution 3.0 Unported)
 
 
