@@ -1,16 +1,43 @@
-# Alura Challenge - Edição 3 - Semana 2
+# [Semana 1](https://bit.ly/Semana1_Alura) - Alura Challenge BI
 
-Para esta semana, foi proposto o desafio de : Agora a Alura Shop investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito.
+## Dashboard Operacional
 
-A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos indicadores relevantes para a validação estratégica do negócio.
+A Alura Log, uma empresa de logística, está enfrentando alguns problemas por conta do aumento de demanda durante a pandemia da COVID-19. Para manter a qualidade do serviço, percebeu que precisava acompanhar algumas métricas para conseguir efetuar algumas decisões operacionais. O dashboard aqui produzido trás as métricas pedidas, assim como algumas extras, desenvolvidas com o intuito de melhorar a qualidade do serviço da empresa. 
+
+## Base de Dados
+
+A empresa disponibilizou 4 tabelas no formato CSV:
+  
+  1. Tabela pedidos, que contém o registro de todos os pedidos feitos pelos clientes.
+  2. Tabela produtos, que contém os produtos cadastrados e seus valores.
+  3. Tabela veículos, que contém veículos registrados que fazem o transporte dos produtos
+  4. Tabela estoque, que contém o registro de estoque dos produtos por mês
+
+### Relacionamentos
+
+Há 3 relacionamentos entre as tabelas:
+  
+1. A 'Tabela pedidos' se relaciona com a 'Tabela produtos' pela coluna 'ID Produtos', com uma cardinalidade de muitos para 1 (n:1)
+2. A 'Tabela estoque' se relaciona com a 'Tabela produtos' pela coluna 'ID Produtos', com uma cardinalidade de muitos para 1 (n:1)
+3. A 'Tabela pedidos' se relaciona com a 'Tabela veículos' pela coluna 'ID Veículo', com uma cardinalidade de muitos para 1 (n:1)
 
 
+## Métricas
+
+A empresa requisitou que as seguintes métricas estivessem no relatório:
+  
+  - S2D(Ship to door): Tempo, em dias, que a entrega demorou a ser efetuada
+  - Número de entregas por estado
+  - Número de veículos disponíveis
+  - Nível de estoque por ano
+  - Número de entregas atrasadas e no prazo
+
+Além destas, também foram desenvolvidas algumas métricas extras:
+  - Faturamento total, por ano e por estado
+  - S2D médio por estado
+
+  
+## Ferramentas utilizadas
+  Para a criação do dashboard foi utilizado o software Power BI. As imagens de fundo das páginas foram criadas no Microsoft Power Point.
 
 
-## Fontes:
-
-Ícones: [IconFinder](https://www.iconfinder.com/iconsets/social-media-rounded-corners) produzido por [IconsAlfredo .com](https://www.iconfinder.com/AlfredoCreates)
-
-  [IconFinder](https://www.iconfinder.com/iconsets/business-collection-2027) produzido por [phoenix icon](https://www.iconfinder.com/phoenixicon)
-        
-  [IconFinder](https://www.iconfinder.com/iconsets/essentials-9) produzido por [Alice Rizzo](https://www.iconfinder.com/AliceR)      
