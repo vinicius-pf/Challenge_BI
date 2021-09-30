@@ -24,7 +24,8 @@ Há 3 relacionamentos entre as tabelas:
 ### Tratamento de dados
 
   Ao analisar os dados, percebeu-se que as tabelas estavam com algumas particularidades e que estas poderiam trazer informações incorretas para o que foi requisitado. As tabelas 'Tabela notas fiscais' e 'Tabela produtos' traziam o algarismo 0 repetido nas colunas 'Valor' e 'Frete'(Tabela notas fiscais) e 'Preço' e 'Custos'(Tabela produtos). Para resolver isso, os valores das colunas foram dividios por 100 e assim a anomalia foi resolvida.
-  Houve também um problema com a 'Tabela vendedores': havia um vendedor duplicado, gerando 2 ids diferentes (3 e 6). Para isso, foi retirado a duplicidade de informações, e, na 'Tabela nostas fiscais', foram alterados os valores de 'id_vendedor' de 6 para 3. Nesta tabela também haviam nomes com caracteres a mais, fazendo-se assim, uma limpeza desses textos.
+  
+  Houve também um problema com a 'Tabela vendedores': havia um vendedor duplicado, gerando 2 ids diferentes (3 e 6). Para isso, foi retirada a duplicidade de informações, e, na 'Tabela nostas fiscais', foram alterados os valores de 'id_vendedor' de 6 para 3. Nesta tabela também haviam nomes com caracteres a mais, fazendo-se assim, uma limpeza desses textos.
 
 
 ## Métricas
