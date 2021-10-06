@@ -21,7 +21,7 @@ O aprendizado foi planejado com 3 pilares para que cada aluno possa aproveitar m
 
 * [Semana 2](https://bit.ly/Semana2_Alura): Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
 
-* Semana3: Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
+* [Semana 3](https://bit.ly/Semana3_Alura): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
 
 
 
