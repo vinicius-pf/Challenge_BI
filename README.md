@@ -12,7 +12,7 @@ Em cada semana do desafio foi enviado uma área de trabalho no [Trello](https://
 
 ### [Semana 1](https://bit.ly/Semana1_Alura): Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.
 
-[Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%201/Screenshots/P%C3%A1gina%201.PNG?raw=true)
+![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%201/Screenshots/P%C3%A1gina%201.PNG?raw=true)
 
 * [Semana 2](https://bit.ly/Semana2_Alura): Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
 
