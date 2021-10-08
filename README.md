@@ -14,9 +14,14 @@ Em cada semana do desafio foi enviado uma área de trabalho no [Trello](https://
 
 ![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%201/Screenshots/P%C3%A1gina%201.PNG?raw=true)
 
-* [Semana 2](https://bit.ly/Semana2_Alura): Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
+### [Semana 2](https://bit.ly/Semana2_Alura): Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
 
-* [Semana 3](https://bit.ly/Semana3_Alura): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
+![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%202/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true)
+
+### [Semana 3](https://bit.ly/Semana3_Alura): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
+
+![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%203%20e%204/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true)
+
 
 
 
